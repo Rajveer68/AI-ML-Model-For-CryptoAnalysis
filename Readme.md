@@ -82,12 +82,12 @@ The experiment revealed that market sentiment has a very low linear correlation 
 ## 📂 Project Structure
 
 ```text
+└── Academic_Reports/       # Final Academic Report (D1.b).
 ├── dataset/                # Dataset files (csv).
-├── Project-Brief/          # Contains the project briefing and sample reports.
+├── Final_Notebook/         # Jupyter Notebooks containing complete project and ML model code [ Main execution script ].
 ├── Ideas/                  # Model training ideas and project discussions proposed by group members.
-├── Final_Notebook/         # Jupyter Notebooks containing complete project and ML model code [ Main execution script ]
+├── images/                 # Plots and correlation heatmaps.               
+├── Project-Brief/          # Contains the project briefing and sample reports.
 ├── src/                    # Source code for different sections of the project - [Dataset Overview, EDA, Dataset Pre-Processing, Model-Training And Evaluation].
-├── images/                 # Plots and correlation heatmaps                 
-├── requirements.txt        # Python dependencies
-├── README.md               # Project documentation
-└── Academic_Reports/       # Final Academic Report (D1.b)
+├── README.md               # Project documentation.
+├── requirements.txt        # Python dependencies.
